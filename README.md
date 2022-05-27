@@ -1,4 +1,4 @@
-## Hello! I am Amanda Vargas, front-end developer👋 <img align="right" height="100" src="https://media1.giphy.com/media/unqqf6U3sU1uo/giphy.gif?cid=790b761174faf060f18e857066e14a8f7f84f8c65d9a5ed1&rid=giphy.gif&ct=s">
+## Hello! I am Amanda Vargas, front-end developer <img height="90" src="https://media1.giphy.com/media/unqqf6U3sU1uo/giphy.gif?cid=790b761174faf060f18e857066e14a8f7f84f8c65d9a5ed1&rid=giphy.gif&ct=s">
 
 <div align="center">
   <a href="https://github.com/arsvargas">
