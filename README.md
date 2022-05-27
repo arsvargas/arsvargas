@@ -1,9 +1,10 @@
-## Hello! I am Amanda Vargas, front-end developer👋
+## Hello! I am Amanda Vargas, front-end developer👋 <img align="right" height="100" src="https://media1.giphy.com/media/unqqf6U3sU1uo/giphy.gif?cid=790b761174faf060f18e857066e14a8f7f84f8c65d9a5ed1&rid=giphy.gif&ct=s">
 
 <div align="center">
   <a href="https://github.com/arsvargas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arsvargas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsvargas&layout=compact&langs_count=7&theme=radical"/>
+    
 </div>
   
 ##
@@ -15,7 +16,7 @@
   <img align="center" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" title="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="right" src="https://giphy.com/embed/88sB1ggMQHjby"  height="250" frameBorder="0" class="giphy-embed">
+  
 </div>
 
   
