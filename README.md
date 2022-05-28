@@ -1,4 +1,6 @@
-## Hello! I am Amanda Vargas, front-end developer <img height="90" src="https://media1.giphy.com/media/unqqf6U3sU1uo/giphy.gif?cid=790b761174faf060f18e857066e14a8f7f84f8c65d9a5ed1&rid=giphy.gif&ct=s">
+ <div align="center"><img   height="90" src="https://media1.giphy.com/media/unqqf6U3sU1uo/giphy.gif?cid=790b761174faf060f18e857066e14a8f7f84f8c65d9a5ed1&rid=giphy.gif&ct=s"></div>
+<h1 align="center">Hello! I am Amanda Vargas, front-end developer </h1>  
+
 
 <div align="center">
   <a href="https://github.com/arsvargas">
@@ -9,7 +11,7 @@
   
 ##
   
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,10 +23,10 @@
 
   
   ##
-  
-  <a href="https://www.linkedin.com/in/arsvargas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:amanda.jaques.vargas@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  
+  <div align="center">
+    <a href="https://www.linkedin.com/in/arsvargas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="mailto:amanda.jaques.vargas@outlook.com" target="_blank"><img      src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  </div>
  
   ##
   
