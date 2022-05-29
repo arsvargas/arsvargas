@@ -23,7 +23,9 @@
  
  ##
  
- <div align="center">https://arsvargas.github.io/resume/</div>
+ <div align="center">
+ <a href="https://arsvargas.github.io/resume"><img  width="300" src="https://img.shields.io/badge/click%20to%20see%20%E2%86%92-My%20Resume-blue"/></a>
+ </div>
   
   ##
   <div align="center">
