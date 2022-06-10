@@ -1,4 +1,4 @@
- <div align="center"><a href="https://www.youtube.com/watch?v=ubTJI_UphPk"><img   height="90" src="https://media1.giphy.com/media/unqqf6U3sU1uo/giphy.gif?cid=790b761174faf060f18e857066e14a8f7f84f8c65d9a5ed1&rid=giphy.gif&ct=s"><a/></div>
+ <div align="center"><a href="https://youtube.com/watch?v=ubTJI_UphPk" target="_blank"><img   height="90" src="https://media1.giphy.com/media/unqqf6U3sU1uo/giphy.gif?cid=790b761174faf060f18e857066e14a8f7f84f8c65d9a5ed1&rid=giphy.gif&ct=s"><a/></div>
 <h1 align="center">Hello! I am Amanda Vargas, front-end developer </h1>  
 
 
